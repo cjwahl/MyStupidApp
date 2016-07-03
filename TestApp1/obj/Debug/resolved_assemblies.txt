@@ -1,8 +1,10 @@
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\TestApp1.dll
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\Java.Interop.dll
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\Mono.Android.dll
+C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\Mono.Data.Sqlite.dll
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\mscorlib.dll
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.Core.dll
+C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.Data.dll
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.dll
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.Xml.dll
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.Xml.Linq.dll
@@ -24,6 +26,9 @@ C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.Reflection.Extensio
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.Runtime.Serialization.dll
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.ServiceModel.Internals.dll
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.Net.Http.dll
+C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.Transactions.dll
+C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.Numerics.dll
+C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\Mono.Data.Tds.dll
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.Linq.Expressions.dll
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\VSStuff\TestApp1\TestApp1\obj\Debug\android\assets\System.Resources.ResourceManager.dll
