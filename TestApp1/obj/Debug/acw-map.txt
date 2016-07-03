@@ -1,0 +1,4 @@
+TestApp1.MainActivity, TestApp1;md5f421994a67efae6fd9dad910f47967be.MainActivity
+TestApp1.MainActivity, TestApp1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f421994a67efae6fd9dad910f47967be.MainActivity
+TestApp1.MainActivity;md5f421994a67efae6fd9dad910f47967be.MainActivity
+testapp1.MainActivity;md5f421994a67efae6fd9dad910f47967be.MainActivity
